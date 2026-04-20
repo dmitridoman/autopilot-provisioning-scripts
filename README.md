@@ -26,7 +26,7 @@ Dot-source or run the scripts from an elevated or normal session as noted in eac
 
 ## What you must customise
 
-Placeholders such as `GROUP-OBJECT-ID-HERE`, `contoso.onmicrosoft.com`, and serial numbers are fake. Replace with your inventory fields, group tags, and app lists.
+Illustrative naming follows **Harven Group** (`harven.co.uk` / `harvengroup.onmicrosoft.com`). Serial numbers and Autopilot hashes in your runs are still real data — do not paste those into a public repo.
 
 ## Limitations
 
