@@ -8,6 +8,7 @@
     Graph updates are optional and tenant-dependent — verify behaviour on a throwaway device first.
 
 .NOTES
+    Example naming: `HVN-LT-042` / `HVN-DT-018` style prefixes for Harven-style estates — adjust to your standard.
     Run post-enrolment when you have a stable session. Reboot may be required for the hostname to stick everywhere.
     Graph rename paths change over time; if Update-Mg* fails, fix the cmdlet to match your module version.
 #>
